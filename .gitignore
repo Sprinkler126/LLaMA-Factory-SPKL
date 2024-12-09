@@ -172,3 +172,4 @@ saves/
 output/
 wandb/
 generated_predictions.jsonl
+*.safetensors
